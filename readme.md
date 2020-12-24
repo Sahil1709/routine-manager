@@ -20,8 +20,8 @@ Following are the **libraries** that were used :
 - Github Site -> [Click here][site]
 - Personal Site -> [Click here][site2]
   
-[youtube]:www.youtube.com
-[github]:github.com/Sahil1709
-[site]:sahil1709.github.io
-[site2]:sahilgupta.tk
+[youtube]:https://www.youtube.com
+[github]:https://github.com/Sahil1709
+[site]:https://sahil1709.github.io
+[site2]:https://sahilgupta.tk
 
