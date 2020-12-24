@@ -15,10 +15,10 @@ Following are the **libraries** that were used :
 
 <hr>
 
-- Youtube -> [yt][youtube]
-- Github -> [gh][github]
-- Github Site -> [s1][site]
-- Personal Site -> [s2][site2]
+- Youtube -> [YOUTUBE][youtube]
+- Github -> [GITHUB][github]
+- Github Site -> [Click here][site]
+- Personal Site -> [Click here][site2]
   
 [youtube]:www.youtube.com
 [github]:github.com/Sahil1709
